@@ -1,0 +1,372 @@
+{
+ "meta": {
+  "eyebrow": "Biblioteca de Anúncios da Meta · anúncios ativos em 26/09/2026",
+  "lede": "Lojas de moda masculina premium parecidas com Ermos e Balddoria, no Brasil e no mundo, e o que cada uma mantém no ar há 30 dias ou mais. Anúncio que segue ligado depois de um mês é o sinal público mais forte de que vende. É isso que vale replicar.",
+  "lojasSub": "Loja escalada = 20 ou mais anúncios ativos (no Brasil, pras brasileiras; no mundo todo, pras gringas). Ermos e Balddoria entram como régua.",
+  "padSub": "Contagem sobre os criativos validados de cada região. A mediana de dias no ar mostra o que dura mais.",
+  "rodape": "Malta · pesquisa de criativos validados · 26/09/2026",
+  "rankSub": "Escala = dias no ar × bônus de variações (+15% por variação extra, até +150%). Só entra anúncio que leva pro site da loja (home, coleção ou produto), no máximo 8 por loja. São os {n_rank_br} mais escalados do Brasil e os {n_rank_mu} do mundo."
+ },
+ "metodo": [
+  "<b>Fonte:</b> Biblioteca de Anúncios da Meta, lida direto do site em 26/09/2026. No Brasil ela só mostra anúncio ativo.",
+  "<b>Como as lojas foram achadas:</b> buscas por termos do nicho (oversized, 3 por 2, linho, SS26, FW26, old money, verão europeu, drinks, clubes), uma lista de marcas parecidas com Ermos e Balddoria levantada na web e marcas gringas do mesmo universo, lidas no mundo todo.",
+  "<b>Loja escalada:</b> 20 ou mais anúncios ativos no Brasil. Menos que isso ainda é teste.",
+  "<b>Criativo validado:</b> ativo hoje e já veiculando em 27/08/2026 ou antes, ou seja, 30+ dias no ar. Criativo que não se paga é desligado antes disso.",
+  "<b>Ranking de escala:</b> dias no ar vezes um bônus de 15% por variação extra do mesmo criativo (até +150%). Entra só anúncio com link pro site da loja; no máximo 8 por loja.",
+  "<b>Lojas do mundo:</b> as mesmas regras, contando os anúncios ativos em todos os países. A análise das gringas foi feita em português.",
+  "<b>Camiseta estampada · mundo:</b> busca por 34 termos em 13 línguas (graphic tee, back print, camiseta estampada, remera, t-shirt imprimé, T-Shirt mit Print, kaos sablon, グラフィックTシャツ e outros), só anúncio ativo que já rodava em 27/08. A mesma loja com várias páginas conta uma vez (pelo domínio). Fora: marketplace, gráfica e estampa personalizada, presente, infantil e feminino. Cada criativo foi olhado um a um e só entra se a peça anunciada é camiseta com estampa; no máximo 6 por loja.",
+  "<b>Ordem dentro da loja:</b> dias no ar + número de variações do mesmo criativo + posição na lista ordenada por impressões (a Meta ordena, mas não mostra o número).",
+  "<b>O que a Biblioteca não mostra:</b> gasto, alcance, vendas e ROAS. Tempo no ar e volume de variações são os sinais públicos de que algo funciona.",
+  "<b>Análise:</b> cada criativo foi olhado quadro a quadro (vídeo) ou na peça inteira (imagem), com o texto do anúncio e a fala transcrita.",
+  "<b>Mesmo criativo, várias cópias:</b> anúncio com a mesma arte aparece uma vez só."
+ ],
+ "resumo": [
+  {
+   "t": "<b>O universo troca rápido; a prova fica.</b> Criativo de verão, noite e frase dura em mediana {med_universo} dias: cada coleção nova substitui a anterior. O de tecido e qualidade dura {med_tecido}; o de gente falando pra câmera, {med_creator}.",
+   "refs": [
+    "989358250570744",
+    "2310683319415573",
+    "1698866797494518"
+   ]
+  },
+  {
+   "t": "<b>Quem fala pra câmera é o formato que mais dura.</b> Creator, dono ou cliente: {n_creator} criativos com mediana de {med_creator} dias. A foto com modelo, o formato mais comum, fica {med_fotomod}.",
+   "refs": [
+    "1207919581205752",
+    "2310683319415573",
+    "1945610556124287"
+   ]
+  },
+  {
+   "t": "<b>Na Balddoria e na Ermos, a frase da camiseta é a copy.</b> O que segura é a peça de costas, frase legível, cenário do universo e quase nenhum texto no anúncio.",
+   "refs": [
+    "989358250570744",
+    "1718774259349544",
+    "1028437159956993",
+    "2166709370566721"
+   ]
+  },
+  {
+   "t": "<b>Oferta de volume está no site e, quando vai pro anúncio, vai grande.</b> Pelo menos {n_lojas_volume} das {n_lojas} lojas usam 3 por 2, kit com preço fechado ou brinde na 3ª peça. Nos validados ela aparece em {n_volume} criativos, e os mais longevos escrevem a oferta em letra grande, dentro da arte.",
+   "refs": [
+    "2189003701544211",
+    "1354124676791365",
+    "1008916628733692",
+    "1787841258846680"
+   ]
+  },
+  {
+   "t": "<b>{pct_sem_oferta}% dos validados não têm oferta nenhuma.</b> Sem preço e sem desconto, duram mais (mediana {med_sem_oferta} dias) do que os de desconto em % ({med_pct} dias).",
+   "refs": [
+    "1895816164624490",
+    "1421811669989215"
+   ]
+  },
+  {
+   "t": "<b>Coleção com nome vira gancho e rende variações.</b> UNTITLED #FW26, Sub-Cultural Networking, BANDITO F/W 26, Drop 3 MEZZANOTTE, Last Letters: o mesmo vídeo roda em 3 a 4 versões.",
+   "refs": [
+    "1661429001822863",
+    "1421811669989215",
+    "1513964773716897",
+    "1451097240268379"
+   ]
+  },
+  {
+   "t": "<b>Embalagem e bastidor viram anúncio de meses.</b> Unboxing em primeira pessoa (Monte Leste, 469 dias; The Dust Company, 329), caixa de cereal (Desgosto) e a estamparia da marca (388 dias).",
+   "refs": [
+    "1420791958828905",
+    "1373224661127194",
+    "1951979048843112",
+    "1698866797494518"
+   ]
+  },
+  {
+   "t": "<b>O clique vai pra coleção, não pra home.</b> {pct_colecao}% levam pra uma coleção ou categoria e {pct_produto}% pra página da peça. Só {pct_home}% mandam pra home.",
+   "refs": []
+  },
+  {
+   "t": "<b>Lá fora o criativo dura mais e fala menos de preço.</b> Nas {n_lojas_mundo} gringas, a mediana é {m_med} dias no ar (no Brasil, {med}) e {m_pct_sem_oferta}% não têm oferta nenhuma.",
+   "refs": [
+    "2276796869488417",
+    "1223122983062972",
+    "1364810138561377"
+   ]
+  },
+  {
+   "t": "<b>Lá fora, a prova vira manchete.</b> \"75,000 Five-Star Reviews\", \"A perfect sweatshirt, British GQ\", \"Yes, they're expensive\": a prova ou a provocação vem escrita na própria peça.",
+   "refs": [
+    "887565670301544",
+    "2073964110047458",
+    "926987700217200",
+    "850979701091937"
+   ]
+  },
+  {
+   "t": "<b>Lá fora o clique vai direto pra peça.</b> {m_pct_produto}% levam pra página do produto (no Brasil, {pct_produto}%), e só {m_pct_video}% dos criativos são vídeo.",
+   "refs": []
+  }
+ ],
+ "padroes": {
+  "formato": "Gente falando pra câmera e peça sem modelo (unboxing, packshot, bastidor) duram mais que a foto com modelo, que é o formato mais produzido.",
+  "angulo": "Prova social, creator e qualidade do tecido passam de 100 dias. Verão, noite e frase ficam perto de 2 meses: é o tempo de uma coleção.",
+  "oferta": "A maioria não tem oferta. Quando tem, cupom e frete grátis duram mais que desconto em %.",
+  "destino": "Coleção ou categoria é o destino padrão. Página da peça vem logo atrás; home é minoria."
+ },
+ "frases": [
+  {
+   "tipo": "Oferta escrita na peça",
+   "d": "A oferta em letra grande, dentro da arte.",
+   "itens": [
+    {
+     "id": "1354124676791365",
+     "t": "COMPRE 2 CAMISETAS E A 3ª SAI DE GRAÇA!"
+    },
+    {
+     "id": "2189003701544211",
+     "t": "COMPRE 3 camisetas e escolha o presente"
+    },
+    {
+     "id": "1008916628733692",
+     "t": "COMPRE 3 LEVE 4 e ainda ganhe uma carteira de brinde"
+    },
+    {
+     "id": "1216051033815218",
+     "t": "Camisetas a partir de R$ 79,90"
+    },
+    {
+     "id": "1787841258846680",
+     "t": "PACK 3 LISAS POR R$ 199,90"
+    },
+    {
+     "id": "1749097462464298",
+     "t": "Básicas com R$ 30 OFF a partir de 3 peças no desconto progressivo."
+    }
+   ]
+  },
+  {
+   "tipo": "Frase na camiseta",
+   "d": "A frase da peça é o anúncio.",
+   "itens": [
+    {
+     "id": "989358250570744",
+     "t": "I'M YOUR BIGGEST DREAM"
+    },
+    {
+     "id": "1718774259349544",
+     "t": "ONLY FOOLS ARE SATISFIED"
+    },
+    {
+     "id": "1734835464436439",
+     "t": "5AM IS FOR CLUBBING, NOT FOR RUNNING."
+    },
+    {
+     "id": "1028437159956993",
+     "t": "NOBODY CARES UNLESS YOU WIN OR DIE."
+    },
+    {
+     "id": "1429498039009584",
+     "t": "DREAMED IN ITALIA, MISBEHAVED IN BRASIL"
+    },
+    {
+     "id": "2166709370566721",
+     "t": "LA DOLCE VITA"
+    }
+   ]
+  },
+  {
+   "tipo": "Chamada de coleção",
+   "d": "Nome próprio, estação e \"disponível agora\".",
+   "itens": [
+    {
+     "id": "1661429001822863",
+     "t": "UNTITLED #FW26 · New collection available"
+    },
+    {
+     "id": "1421811669989215",
+     "t": "Sub-Cultural Networking. Nova coleção disponível no site."
+    },
+    {
+     "id": "1513964773716897",
+     "t": "BANDITO · EGHO F/W 26 · Made for Creators"
+    },
+    {
+     "id": "1451097240268379",
+     "t": "Drop 3: MEZZANOTTE. Já disponível no site!"
+    },
+    {
+     "id": "719122601237927",
+     "t": "Moletom boxy \"Last Letters\" disponível agora"
+    },
+    {
+     "id": "1003756535823699",
+     "t": "Birden apresenta: Concrete signals AW26"
+    }
+   ]
+  },
+  {
+   "tipo": "Qualidade e prova",
+   "d": "Promessa sobre a peça, dita com confiança.",
+   "itens": [
+    {
+     "id": "2310683319415573",
+     "t": "Vai por mim, nem toda camiseta é igual."
+    },
+    {
+     "id": "1356302003214806",
+     "t": "A melhor camiseta que você vai provar na sua vida."
+    },
+    {
+     "id": "2946561132220141",
+     "t": "Design europeu, corte impecável e conforto que você sente no primeiro uso."
+    },
+    {
+     "id": "2154801988426381",
+     "t": "Já reparou que os famosos sempre estão com uma camiseta parecida?"
+    },
+    {
+     "id": "1303273758646054",
+     "t": "Já estou providenciando outras cores!"
+    },
+    {
+     "id": "1670357356962344",
+     "t": "O estilo não é o que você veste. É o que os outros sentem quando você chega."
+    }
+   ]
+  },
+  {
+   "tipo": "Lá fora",
+   "d": "Frases escritas nos criativos gringos que mais duram.",
+   "itens": [
+    {
+     "id": "850979701091937",
+     "t": "PSA: This is your sign to stop buying mesh lined swim trunks."
+    },
+    {
+     "id": "511659691297195",
+     "t": "Our Swim Shorts: Stress Free Sunbathing VS Standard Swim Shorts: Awkward Itchy Cheeks"
+    },
+    {
+     "id": "926987700217200",
+     "t": "YES, THEY'RE EXPENSIVE."
+    },
+    {
+     "id": "1433220191068260",
+     "t": "Make it here. Do it right."
+    },
+    {
+     "id": "730844903136045",
+     "t": "THESE PANTS ARE UNDEFEATED"
+    },
+    {
+     "id": "2073964110047458",
+     "t": "'A perfect sweatshirt' British GQ"
+    },
+    {
+     "id": "2182282699230885",
+     "t": "Meet the 'Extra Dirty' Cabana Shirt, our tribute to the dirty martini."
+    }
+   ]
+  }
+ ],
+ "replicar": [
+  {
+   "t": "A frase nas costas, no cenário do universo",
+   "p": "É o molde da Balddoria e da Ermos: a peça de costas, a frase legível, o lugar que conta a história (beach club, bar, marina).",
+   "how": "Modelo de costas, frase ocupando o quadro, luz natural. Sem texto por cima: a legenda é o nome da peça e a coleção.",
+   "refs": [
+    "989358250570744",
+    "1718774259349544",
+    "1028437159956993",
+    "2166709370566721"
+   ]
+  },
+  {
+   "t": "Oferta de volume em letra gigante",
+   "p": "3 por 2 e kit com preço fechado são padrão no nicho. Os que duram escrevem a oferta grande, dentro da arte.",
+   "how": "Foto da peça no corpo + manchete em caixa-alta ocupando um terço da arte: \"COMPRE 2, A 3ª SAI DE GRAÇA\". Link pra coleção.",
+   "refs": [
+    "1354124676791365",
+    "2189003701544211",
+    "1008916628733692",
+    "1787841258846680"
+   ]
+  },
+  {
+   "t": "Unboxing em primeira pessoa",
+   "p": "A embalagem vira prova de que a marca existe e cuida do pedido. Monte Leste mantém o mesmo há 469 dias.",
+   "how": "Celular na mão, mesa ou sofá, abrir a caixa da Malta, tirar a peça, mostrar brinde e cartão. Oferta escrita na tela.",
+   "refs": [
+    "1420791958828905",
+    "1373224661127194",
+    "1951979048843112"
+   ]
+  },
+  {
+   "t": "Dono ou creator falando pra câmera",
+   "p": "É o formato que mais dura. Funciona com o dono da marca, com creator e com cliente.",
+   "how": "Selfie ou câmera fixa, fala nos 3 primeiros segundos (\"fiz um pedido da minha própria loja\"), legenda na tela, cupom com o nome de quem fala.",
+   "refs": [
+    "1207919581205752",
+    "2310683319415573",
+    "813821331493604",
+    "1945610556124287"
+   ]
+  },
+  {
+   "t": "Bastidor da produção",
+   "p": "Mostrar onde a peça é feita dá prova de qualidade e rende anúncio de mais de um ano.",
+   "how": "Alguém da marca na estamparia ou no estoque, falando pra câmera, B-roll da estampa sendo feita, fechando com cupom.",
+   "refs": [
+    "1698866797494518",
+    "1670357356962344"
+   ]
+  },
+  {
+   "t": "Packshot limpo, uma peça por anúncio",
+   "p": "Foto só da peça dura mais que foto com modelo. É barata de produzir e aguenta meses.",
+   "how": "Camiseta estendida ou dobrada em fundo liso, frase ou logo legível, link direto pra página da peça, cupom na legenda.",
+   "refs": [
+    "2564267227365251",
+    "1548068469244208",
+    "1916334199037405"
+   ]
+  },
+  {
+   "t": "Coleção com nome e estação",
+   "p": "O nome da coleção vira o gancho e segura 3 a 4 variações do mesmo vídeo.",
+   "how": "Batizar cada drop (ex.: \"MALTA · SS27 · nome\"), repetir o nome em todas as peças e vídeos de 10 a 20 segundos.",
+   "refs": [
+    "1661429001822863",
+    "1421811669989215",
+    "1513964773716897",
+    "1451097240268379"
+   ]
+  },
+  {
+   "t": "Qualidade dita com provocação",
+   "p": "Básico premium vende pela promessa: \"nem toda camiseta é igual\". Dura mais de 200 dias.",
+   "how": "Homem da marca segurando a peça, frase de provocação no começo, close do tecido e da costura, kit com desconto no fim.",
+   "refs": [
+    "2310683319415573",
+    "1356302003214806",
+    "2133817904217802"
+   ]
+  },
+  {
+   "t": "Verão com a peça em close",
+   "p": "O clima de resort funciona quando a peça aparece de perto: bordado, listra, tecido.",
+   "how": "Vídeo curto na praia, no barco ou na piscina, com close no detalhe da peça. Sem oferta, legenda de estilo de vida.",
+   "refs": [
+    "1895816164624490",
+    "3008503196147993",
+    "2946561132220141"
+   ]
+  }
+ ],
+ "padroes_mundo": {
+  "formato": "Foto com modelo, packshot e catálogo são a base lá fora. Vídeo é minoria, e o que existe dura muito.",
+  "angulo": "Verão e viagem dura {m_med_verao} dias lá fora, contra {med_verao} no Brasil: pras marcas de resort, o verão é posicionamento, não coleção.",
+  "oferta": "{m_pct_sem_oferta}% dos validados não têm oferta nenhuma. A oferta que existe é bundle (\"leve 2, ganhe desconto\") ou sale de fim de estação.",
+  "destino": "Quase metade leva direto pra página da peça."
+ }
+}

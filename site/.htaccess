@@ -1,0 +1,12 @@
+# Acervo interno de criativos validados (Malta) — fora dos buscadores.
+# Criativos de anunciantes terceiros, coletados da Biblioteca de Anúncios da Meta como referência.
+<IfModule mod_headers.c>
+  Header always set X-Robots-Tag "noindex, nofollow"
+  <FilesMatch "\.(jpg|jpeg|png|webp|mp4)$">
+    Header set Cache-Control "public, max-age=604800"
+  </FilesMatch>
+</IfModule>
+# A CSP da raiz já cobre a página (CSS/JS inline, imagens e vídeos locais). Não afrouxar.
+<IfModule mod_deflate.c>
+  AddOutputFilterByType DEFLATE text/html application/json
+</IfModule>

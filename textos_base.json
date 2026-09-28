@@ -1,0 +1,19 @@
+{
+ "meta": {
+  "eyebrow": "Biblioteca de Anúncios da Meta · anúncios ativos em 26/09/2026",
+  "lede": "Lojas de moda masculina premium parecidas com Ermos e Balddoria, e o que cada uma mantém no ar há 30 dias ou mais. Anúncio que segue ligado depois de um mês é o sinal público mais forte de que vende. É isso que vale replicar.",
+  "lojasSub": "Loja escalada = 20 ou mais anúncios ativos no Brasil hoje. Ermos e Balddoria entram como régua. Em \"Lá fora\", marcas gringas do mesmo universo, lidas no mundo todo.",
+  "padSub": "Contagem sobre os criativos validados das lojas do Brasil. A mediana de dias no ar mostra o que dura mais.",
+  "rodape": "Malta · pesquisa de criativos validados · 26/09/2026"
+ },
+ "metodo": [
+  "<b>Fonte:</b> Biblioteca de Anúncios da Meta, lida direto do site em 26/09/2026. No Brasil ela só mostra anúncio ativo.",
+  "<b>Como as lojas foram achadas:</b> buscas por termos do nicho (oversized, 3 por 2, linho, SS26, FW26, old money, verão europeu, drinks, clubes), uma lista de marcas parecidas com Ermos e Balddoria levantada na web e marcas gringas do mesmo universo, lidas no mundo todo.",
+  "<b>Loja escalada:</b> 20 ou mais anúncios ativos no Brasil. Menos que isso ainda é teste.",
+  "<b>Criativo validado:</b> ativo hoje e já veiculando em 27/08/2026 ou antes, ou seja, 30+ dias no ar. Criativo que não se paga é desligado antes disso.",
+  "<b>Ordem dentro da loja:</b> dias no ar + número de variações do mesmo criativo + posição na lista ordenada por impressões (a Meta ordena, mas não mostra o número).",
+  "<b>O que a Biblioteca não mostra:</b> gasto, alcance, vendas e ROAS. Tempo no ar e volume de variações são os sinais públicos de que algo funciona.",
+  "<b>Análise:</b> cada criativo foi olhado quadro a quadro (vídeo) ou na peça inteira (imagem), com o texto do anúncio e a fala transcrita.",
+  "<b>Mesmo criativo, várias cópias:</b> anúncio com a mesma arte aparece uma vez só."
+ ]
+}

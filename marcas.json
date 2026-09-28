@@ -1,0 +1,1178 @@
+[
+ {
+  "nome": "Ermos",
+  "slug": "ermos",
+  "pid": "331177283402739",
+  "grupo": "ref",
+  "pais": "BR",
+  "site": ""
+ },
+ {
+  "nome": "Balddoria",
+  "slug": "balddoria",
+  "pid": "116219208225200",
+  "grupo": "ref",
+  "pais": "BR",
+  "site": ""
+ },
+ {
+  "nome": "BAW",
+  "slug": "baw",
+  "pid": "193004850901784",
+  "grupo": "street",
+  "pais": "BR",
+  "site": ""
+ },
+ {
+  "nome": "Piet",
+  "slug": "piet",
+  "pid": "108501245294079",
+  "grupo": "street",
+  "pais": "BR",
+  "site": ""
+ },
+ {
+  "nome": "Lost",
+  "slug": "lost",
+  "pid": "132472193908",
+  "grupo": "street",
+  "pais": "BR",
+  "site": ""
+ },
+ {
+  "nome": "Prison",
+  "slug": "prison",
+  "pid": "332794336901926",
+  "grupo": "street",
+  "pais": "BR",
+  "site": ""
+ },
+ {
+  "nome": "Approve",
+  "slug": "approve",
+  "pid": "190534947721623",
+  "grupo": "street",
+  "pais": "BR",
+  "site": ""
+ },
+ {
+  "nome": "Hocks",
+  "slug": "hocks",
+  "pid": "130746803669167",
+  "grupo": "street",
+  "pais": "BR",
+  "site": ""
+ },
+ {
+  "nome": "Aleatory",
+  "slug": "aleatory",
+  "pid": "201944596597855",
+  "grupo": "street",
+  "pais": "BR",
+  "site": ""
+ },
+ {
+  "nome": "Redley",
+  "slug": "redley",
+  "pid": "154239681265379",
+  "grupo": "street",
+  "pais": "BR",
+  "site": ""
+ },
+ {
+  "nome": "Monte Leste",
+  "slug": "monte-leste",
+  "pid": "1811693829135926",
+  "grupo": "street",
+  "pais": "BR",
+  "site": ""
+ },
+ {
+  "nome": "Korova",
+  "slug": "korova",
+  "pid": "164940737221",
+  "grupo": "street",
+  "pais": "BR",
+  "site": ""
+ },
+ {
+  "nome": "trpo",
+  "slug": "trpo",
+  "pid": "1098689056669592",
+  "grupo": "street",
+  "pais": "BR",
+  "site": ""
+ },
+ {
+  "nome": "Oriba",
+  "slug": "oriba",
+  "pid": "1410641949206352",
+  "grupo": "verao",
+  "pais": "BR",
+  "site": ""
+ },
+ {
+  "nome": "Minimal Club",
+  "slug": "minimal-club",
+  "pid": "111410677662814",
+  "grupo": "basicos",
+  "pais": "BR",
+  "site": ""
+ },
+ {
+  "nome": "Urban Basics",
+  "slug": "urban-basics",
+  "pid": "104176909131982",
+  "grupo": "basicos",
+  "pais": "BR",
+  "site": ""
+ },
+ {
+  "nome": "Jouse",
+  "slug": "jouse",
+  "pid": "1739052229652107",
+  "grupo": "basicos",
+  "pais": "BR",
+  "site": ""
+ },
+ {
+  "nome": "Sallo",
+  "slug": "sallo",
+  "pid": "366096446800382",
+  "grupo": "street",
+  "pais": "BR",
+  "site": ""
+ },
+ {
+  "nome": "Insider",
+  "slug": "insider",
+  "pid": "1812940462298746",
+  "grupo": "basicos",
+  "pais": "BR",
+  "site": ""
+ },
+ {
+  "nome": "Chico Rei",
+  "slug": "chico-rei",
+  "pid": "162726143745402",
+  "grupo": "street",
+  "pais": "BR",
+  "site": ""
+ },
+ {
+  "nome": "Reserva",
+  "slug": "reserva",
+  "pid": "255898245572",
+  "grupo": "basicos",
+  "pais": "BR",
+  "site": ""
+ },
+ {
+  "nome": "Osklen",
+  "slug": "osklen",
+  "pid": "144196678926791",
+  "grupo": "basicos",
+  "pais": "BR",
+  "site": ""
+ },
+ {
+  "nome": "Foxton",
+  "slug": "foxton",
+  "pid": "121212353417",
+  "grupo": "verao",
+  "pais": "BR",
+  "site": ""
+ },
+ {
+  "nome": "Aramis",
+  "slug": "aramis",
+  "pid": "165338110144742",
+  "grupo": "basicos",
+  "pais": "BR",
+  "site": ""
+ },
+ {
+  "nome": "Richards",
+  "slug": "richards",
+  "pid": "86415878430",
+  "grupo": "verao",
+  "pais": "BR",
+  "site": ""
+ },
+ {
+  "nome": "SAGE Brazil",
+  "slug": "sage-brazil",
+  "pid": "100464808189649",
+  "grupo": "verao",
+  "pais": "BR",
+  "site": ""
+ },
+ {
+  "nome": "SHUI",
+  "slug": "shui",
+  "pid": "114219056952196",
+  "grupo": "street",
+  "pais": "BR",
+  "site": ""
+ },
+ {
+  "nome": "Blunt",
+  "slug": "blunt",
+  "pid": "294772047250893",
+  "grupo": "street",
+  "pais": "BR",
+  "site": ""
+ },
+ {
+  "nome": "Cursed",
+  "slug": "cursed",
+  "pid": "108951358632444",
+  "grupo": "street",
+  "pais": "BR",
+  "site": ""
+ },
+ {
+  "nome": "1of1 Exclusivist",
+  "slug": "1of1-exclusivist",
+  "pid": "107425104941832",
+  "grupo": "street",
+  "pais": "BR",
+  "site": ""
+ },
+ {
+  "nome": "Good Times",
+  "slug": "good-times",
+  "pid": "843673195828480",
+  "grupo": "street",
+  "pais": "BR",
+  "site": ""
+ },
+ {
+  "nome": "DIVN",
+  "slug": "divn",
+  "pid": "101022761948792",
+  "grupo": "verao",
+  "pais": "BR",
+  "site": ""
+ },
+ {
+  "nome": "CAVA",
+  "slug": "cava",
+  "pid": "108934177559367",
+  "grupo": "basicos",
+  "pais": "BR",
+  "site": ""
+ },
+ {
+  "nome": "Origgo",
+  "slug": "origgo",
+  "pid": "105289138969236",
+  "grupo": "basicos",
+  "pais": "BR",
+  "site": ""
+ },
+ {
+  "nome": "OKA Basics",
+  "slug": "oka-basics",
+  "pid": "111880824659850",
+  "grupo": "basicos",
+  "pais": "BR",
+  "site": ""
+ },
+ {
+  "nome": "Tailor's Mind",
+  "slug": "tailor-s-mind",
+  "pid": "104491798804791",
+  "grupo": "verao",
+  "pais": "BR",
+  "site": ""
+ },
+ {
+  "nome": "EGHO Studios",
+  "slug": "egho-studios",
+  "pid": "106554421883797",
+  "grupo": "street",
+  "pais": "BR",
+  "site": ""
+ },
+ {
+  "nome": "Retroy",
+  "slug": "retroy",
+  "pid": "100264025620928",
+  "grupo": "street",
+  "pais": "BR",
+  "site": ""
+ },
+ {
+  "nome": "VINNY's",
+  "slug": "vinny-s",
+  "pid": "106677904095464",
+  "grupo": "street",
+  "pais": "BR",
+  "site": ""
+ },
+ {
+  "nome": "Sōnmur",
+  "slug": "sonmur",
+  "pid": "880114735179888",
+  "grupo": "verao",
+  "pais": "BR",
+  "site": ""
+ },
+ {
+  "nome": "We Resortwear",
+  "slug": "we-resortwear",
+  "pid": "202014786845289",
+  "grupo": "verao",
+  "pais": "BR",
+  "site": ""
+ },
+ {
+  "nome": "Use Uomini",
+  "slug": "use-uomini",
+  "pid": "340819245778536",
+  "grupo": "verao",
+  "pais": "BR",
+  "site": ""
+ },
+ {
+  "nome": "Old Siller",
+  "slug": "old-siller",
+  "pid": "2400284086681144",
+  "grupo": "verao",
+  "pais": "BR",
+  "site": ""
+ },
+ {
+  "nome": "Saint Tropez & CO",
+  "slug": "saint-tropez-co",
+  "pid": "103617249275267",
+  "grupo": "verao",
+  "pais": "BR",
+  "site": ""
+ },
+ {
+  "nome": "José Knit",
+  "slug": "jose-knit",
+  "pid": "552395097948888",
+  "grupo": "verao",
+  "pais": "BR",
+  "site": ""
+ },
+ {
+  "nome": "Fauna Co.",
+  "slug": "fauna-co",
+  "pid": "100131634954280",
+  "grupo": "verao",
+  "pais": "BR",
+  "site": ""
+ },
+ {
+  "nome": "Lionz Co.",
+  "slug": "lionz-co",
+  "pid": "118827717825485",
+  "grupo": "street",
+  "pais": "BR",
+  "site": ""
+ },
+ {
+  "nome": "Ankor Design",
+  "slug": "ankor-design",
+  "pid": "811558025367496",
+  "grupo": "verao",
+  "pais": "BR",
+  "site": ""
+ },
+ {
+  "nome": "Pueri Santi",
+  "slug": "pueri-santi",
+  "pid": "386848137853238",
+  "grupo": "verao",
+  "pais": "BR",
+  "site": ""
+ },
+ {
+  "nome": "Spice by Silva",
+  "slug": "spice-by-silva",
+  "pid": "103037134415726",
+  "grupo": "street",
+  "pais": "BR",
+  "site": ""
+ },
+ {
+  "nome": "THESAINT",
+  "slug": "thesaint",
+  "pid": "101943939321691",
+  "grupo": "street",
+  "pais": "BR",
+  "site": ""
+ },
+ {
+  "nome": "Turf Domain",
+  "slug": "turf-domain",
+  "pid": "595399933664770",
+  "grupo": "street",
+  "pais": "BR",
+  "site": ""
+ },
+ {
+  "nome": "Places",
+  "slug": "places",
+  "pid": "273896356721125",
+  "grupo": "street",
+  "pais": "BR",
+  "site": ""
+ },
+ {
+  "nome": "FLAMA",
+  "slug": "flama",
+  "pid": "292343827303659",
+  "grupo": "street",
+  "pais": "BR",
+  "site": ""
+ },
+ {
+  "nome": "Mar Trofia",
+  "slug": "mar-trofia",
+  "pid": "142458192276097",
+  "grupo": "verao",
+  "pais": "BR",
+  "site": ""
+ },
+ {
+  "nome": "Atento",
+  "slug": "atento",
+  "pid": "100471432371584",
+  "grupo": "verao",
+  "pais": "BR",
+  "site": ""
+ },
+ {
+  "nome": "Blazee",
+  "slug": "blazee",
+  "pid": "114967414830704",
+  "grupo": "verao",
+  "pais": "BR",
+  "site": ""
+ },
+ {
+  "nome": "Docthos",
+  "slug": "docthos",
+  "pid": "146809355378379",
+  "grupo": "street",
+  "pais": "BR",
+  "site": ""
+ },
+ {
+  "nome": "Volk Culture",
+  "slug": "volk-culture",
+  "pid": "100151931598197",
+  "grupo": "street",
+  "pais": "BR",
+  "site": ""
+ },
+ {
+  "nome": "Overglow Co.",
+  "slug": "overglow-co",
+  "pid": "276621095540336",
+  "grupo": "street",
+  "pais": "BR",
+  "site": ""
+ },
+ {
+  "nome": "Cappel",
+  "slug": "cappel",
+  "pid": "871976505992934",
+  "grupo": "verao",
+  "pais": "BR",
+  "site": ""
+ },
+ {
+  "nome": "Midas Touch",
+  "slug": "midas-touch",
+  "pid": "493000944457792",
+  "grupo": "street",
+  "pais": "BR",
+  "site": ""
+ },
+ {
+  "nome": "Sergio K",
+  "slug": "sergio-k",
+  "pid": "209365379075666",
+  "grupo": "verao",
+  "pais": "BR",
+  "site": ""
+ },
+ {
+  "nome": "Totanka",
+  "slug": "totanka",
+  "pid": "112537633811539",
+  "grupo": "street",
+  "pais": "BR",
+  "site": ""
+ },
+ {
+  "nome": "The Dust Company",
+  "slug": "the-dust-company",
+  "pid": "108700634261427",
+  "grupo": "street",
+  "pais": "BR",
+  "site": ""
+ },
+ {
+  "nome": "Kace Wear",
+  "slug": "kace-wear",
+  "pid": "105570827530545",
+  "grupo": "street",
+  "pais": "BR",
+  "site": ""
+ },
+ {
+  "nome": "Welcome Rio",
+  "slug": "welcome-rio",
+  "pid": "109832071499264",
+  "grupo": "street",
+  "pais": "BR",
+  "site": "https://welcomesunnygarments.com.br/"
+ },
+ {
+  "nome": "Christoff",
+  "slug": "christoff",
+  "pid": "174975346042624",
+  "grupo": "verao",
+  "pais": "BR",
+  "site": "https://christoff.ind.br/"
+ },
+ {
+  "nome": "EAYZ Basic",
+  "slug": "eayz-basic",
+  "pid": "109441818617370",
+  "grupo": "basicos",
+  "pais": "BR",
+  "site": "https://eayzbasic.com.br/"
+ },
+ {
+  "nome": "Wolfield Rio",
+  "slug": "wolfield-rio",
+  "pid": "103970812727213",
+  "grupo": "basicos",
+  "pais": "BR",
+  "site": "https://wolfieldrio.com/"
+ },
+ {
+  "nome": "Utan",
+  "slug": "utan",
+  "pid": "708674239280077",
+  "grupo": "verao",
+  "pais": "BR",
+  "site": "https://utan.com.br/"
+ },
+ {
+  "nome": "King & Joe",
+  "slug": "king-joe",
+  "pid": "113250171699972",
+  "grupo": "verao",
+  "pais": "BR",
+  "site": "https://kingjoe.com.br/"
+ },
+ {
+  "nome": "Sopro Company",
+  "slug": "sopro-company",
+  "pid": "335661554027130",
+  "grupo": "street",
+  "pais": "BR",
+  "site": "https://soprocompany.com.br/"
+ },
+ {
+  "nome": "Handred",
+  "slug": "handred",
+  "pid": "217848461646399",
+  "grupo": "verao",
+  "pais": "BR",
+  "site": "https://handred.com.br/"
+ },
+ {
+  "nome": "Desgosto",
+  "slug": "desgosto",
+  "pid": "1109570612442738",
+  "grupo": "street",
+  "pais": "BR",
+  "site": "https://desgosto.com/"
+ },
+ {
+  "nome": "Birden",
+  "slug": "birden",
+  "pid": "332324036843599",
+  "grupo": "street",
+  "pais": "BR",
+  "site": "https://birden.com.br/"
+ },
+ {
+  "nome": "MC2 Saint Barth",
+  "slug": "mc2-saint-barth",
+  "pid": "103931709682257",
+  "grupo": "mundo-resort",
+  "pais": "ALL",
+  "site": ""
+ },
+ {
+  "nome": "Frescobol Carioca",
+  "slug": "frescobol-carioca",
+  "pid": "167444646629360",
+  "grupo": "mundo-resort",
+  "pais": "ALL",
+  "site": ""
+ },
+ {
+  "nome": "OAS Company",
+  "slug": "oas-company",
+  "pid": "187007878002072",
+  "grupo": "mundo-resort",
+  "pais": "ALL",
+  "site": ""
+ },
+ {
+  "nome": "Orlebar Brown",
+  "slug": "orlebar-brown",
+  "pid": "146597790193",
+  "grupo": "mundo-resort",
+  "pais": "ALL",
+  "site": ""
+ },
+ {
+  "nome": "Vilebrequin",
+  "slug": "vilebrequin",
+  "pid": "183024688378707",
+  "grupo": "mundo-resort",
+  "pais": "ALL",
+  "site": ""
+ },
+ {
+  "nome": "Tombolo",
+  "slug": "tombolo",
+  "pid": "124990334928065",
+  "grupo": "mundo-resort",
+  "pais": "ALL",
+  "site": ""
+ },
+ {
+  "nome": "Sundek",
+  "slug": "sundek",
+  "pid": "217272321633768",
+  "grupo": "mundo-resort",
+  "pais": "ALL",
+  "site": ""
+ },
+ {
+  "nome": "Bather",
+  "slug": "bather",
+  "pid": "424665560958239",
+  "grupo": "mundo-resort",
+  "pais": "ALL",
+  "site": ""
+ },
+ {
+  "nome": "Chubbies",
+  "slug": "chubbies",
+  "pid": "212377122105873",
+  "grupo": "mundo-resort",
+  "pais": "ALL",
+  "site": ""
+ },
+ {
+  "nome": "Fair Harbor",
+  "slug": "fair-harbor",
+  "pid": "882491535147827",
+  "grupo": "mundo-resort",
+  "pais": "ALL",
+  "site": ""
+ },
+ {
+  "nome": "Nikben",
+  "slug": "nikben",
+  "pid": "496848990449148",
+  "grupo": "mundo-resort",
+  "pais": "ALL",
+  "site": ""
+ },
+ {
+  "nome": "CDLP",
+  "slug": "cdlp",
+  "pid": "263975787278628",
+  "grupo": "mundo-resort",
+  "pais": "ALL",
+  "site": ""
+ },
+ {
+  "nome": "Bluemint",
+  "slug": "bluemint",
+  "pid": "480271888728707",
+  "grupo": "mundo-resort",
+  "pais": "ALL",
+  "site": ""
+ },
+ {
+  "nome": "Drôle de Monsieur",
+  "slug": "drole-de-monsieur",
+  "pid": "787377547973271",
+  "grupo": "mundo-street",
+  "pais": "ALL",
+  "site": ""
+ },
+ {
+  "nome": "Scuffers",
+  "slug": "scuffers",
+  "pid": "1339125179482841",
+  "grupo": "mundo-street",
+  "pais": "ALL",
+  "site": ""
+ },
+ {
+  "nome": "Madhappy",
+  "slug": "madhappy",
+  "pid": "1869219286693748",
+  "grupo": "mundo-street",
+  "pais": "ALL",
+  "site": ""
+ },
+ {
+  "nome": "Cole Buxton",
+  "slug": "cole-buxton",
+  "pid": "284268018870449",
+  "grupo": "mundo-street",
+  "pais": "ALL",
+  "site": ""
+ },
+ {
+  "nome": "Arte Antwerp",
+  "slug": "arte-antwerp",
+  "pid": "190760408979",
+  "grupo": "mundo-street",
+  "pais": "ALL",
+  "site": ""
+ },
+ {
+  "nome": "Deus Ex Machina",
+  "slug": "deus-ex-machina",
+  "pid": "92298273390",
+  "grupo": "mundo-street",
+  "pais": "ALL",
+  "site": ""
+ },
+ {
+  "nome": "Thrills",
+  "slug": "thrills",
+  "pid": "187752654579209",
+  "grupo": "mundo-street",
+  "pais": "ALL",
+  "site": ""
+ },
+ {
+  "nome": "Blue Banana",
+  "slug": "blue-banana",
+  "pid": "965990950106411",
+  "grupo": "mundo-street",
+  "pais": "ALL",
+  "site": ""
+ },
+ {
+  "nome": "Palmes",
+  "slug": "palmes",
+  "pid": "323518362403780",
+  "grupo": "mundo-street",
+  "pais": "ALL",
+  "site": ""
+ },
+ {
+  "nome": "Rowing Blazers",
+  "slug": "rowing-blazers",
+  "pid": "244799185667601",
+  "grupo": "mundo-street",
+  "pais": "ALL",
+  "site": ""
+ },
+ {
+  "nome": "Noah",
+  "slug": "noah",
+  "pid": "251004191629597",
+  "grupo": "mundo-street",
+  "pais": "ALL",
+  "site": ""
+ },
+ {
+  "nome": "Pas Normal Studios",
+  "slug": "pas-normal-studios",
+  "pid": "567057303422845",
+  "grupo": "mundo-street",
+  "pais": "ALL",
+  "site": ""
+ },
+ {
+  "nome": "Aries",
+  "slug": "aries",
+  "pid": "102453932609220",
+  "grupo": "mundo-street",
+  "pais": "ALL",
+  "site": ""
+ },
+ {
+  "nome": "Golf Wang",
+  "slug": "golf-wang",
+  "pid": "333376696534878",
+  "grupo": "mundo-street",
+  "pais": "ALL",
+  "site": ""
+ },
+ {
+  "nome": "Percival",
+  "slug": "percival",
+  "pid": "129082733837089",
+  "grupo": "mundo-casual",
+  "pais": "ALL",
+  "site": ""
+ },
+ {
+  "nome": "Scalpers",
+  "slug": "scalpers",
+  "pid": "260803873779072",
+  "grupo": "mundo-casual",
+  "pais": "ALL",
+  "site": ""
+ },
+ {
+  "nome": "Silbon",
+  "slug": "silbon",
+  "pid": "132428740176667",
+  "grupo": "mundo-casual",
+  "pais": "ALL",
+  "site": ""
+ },
+ {
+  "nome": "Marine Layer",
+  "slug": "marine-layer",
+  "pid": "66222681822",
+  "grupo": "mundo-casual",
+  "pais": "ALL",
+  "site": ""
+ },
+ {
+  "nome": "Buck Mason",
+  "slug": "buck-mason",
+  "pid": "124103627771689",
+  "grupo": "mundo-casual",
+  "pais": "ALL",
+  "site": ""
+ },
+ {
+  "nome": "Todd Snyder",
+  "slug": "todd-snyder",
+  "pid": "225059414228048",
+  "grupo": "mundo-casual",
+  "pais": "ALL",
+  "site": ""
+ },
+ {
+  "nome": "Faherty",
+  "slug": "faherty",
+  "pid": "269348256474303",
+  "grupo": "mundo-casual",
+  "pais": "ALL",
+  "site": ""
+ },
+ {
+  "nome": "Sunspel",
+  "slug": "sunspel",
+  "pid": "118875161460500",
+  "grupo": "mundo-casual",
+  "pais": "ALL",
+  "site": ""
+ },
+ {
+  "nome": "Passenger",
+  "slug": "passenger",
+  "pid": "500436813346915",
+  "grupo": "mundo-casual",
+  "pais": "ALL",
+  "site": ""
+ },
+ {
+  "nome": "Faguo",
+  "slug": "faguo",
+  "pid": "88944535935",
+  "grupo": "mundo-casual",
+  "pais": "ALL",
+  "site": ""
+ },
+ {
+  "nome": "Rhythm",
+  "slug": "rhythm",
+  "pid": "151651934899123",
+  "grupo": "mundo-casual",
+  "pais": "ALL",
+  "site": ""
+ },
+ {
+  "nome": "Cuts Clothing",
+  "slug": "cuts-clothing",
+  "pid": "1010103632410348",
+  "grupo": "mundo-casual",
+  "pais": "ALL",
+  "site": ""
+ },
+ {
+  "nome": "Octobre Éditions",
+  "slug": "octobre-editions",
+  "pid": "586432164858074",
+  "grupo": "mundo-casual",
+  "pais": "ALL",
+  "site": ""
+ },
+ {
+  "nome": "Mr Marvis",
+  "slug": "mr-marvis",
+  "pid": "1378070439176688",
+  "grupo": "mundo-casual",
+  "pais": "ALL",
+  "site": ""
+ },
+ {
+  "nome": "Represent",
+  "slug": "represent",
+  "pid": "104048763008842",
+  "grupo": "mundo-street",
+  "pais": "ALL",
+  "site": ""
+ },
+ {
+  "nome": "Rhude",
+  "slug": "rhude",
+  "pid": "109355524064050",
+  "grupo": "mundo-street",
+  "pais": "ALL",
+  "site": ""
+ },
+ {
+  "nome": "Palm Angels",
+  "slug": "palm-angels",
+  "pid": "330215123997728",
+  "grupo": "mundo-street",
+  "pais": "ALL",
+  "site": ""
+ },
+ {
+  "nome": "Birdwell",
+  "slug": "birdwell",
+  "pid": "251362861570298",
+  "grupo": "mundo-resort",
+  "pais": "ALL",
+  "site": ""
+ },
+ {
+  "nome": "Ripa Ripa",
+  "slug": "ripa-ripa",
+  "pid": "506773716052261",
+  "grupo": "mundo-resort",
+  "pais": "ALL",
+  "site": ""
+ },
+ {
+  "nome": "Casablanca",
+  "slug": "casablanca",
+  "pid": "100136081625661",
+  "grupo": "mundo-street",
+  "pais": "ALL",
+  "site": ""
+ },
+ {
+  "nome": "Wax London",
+  "slug": "wax-london",
+  "pid": "1685032251737458",
+  "grupo": "mundo-casual",
+  "pais": "ALL",
+  "site": ""
+ },
+ {
+  "nome": "Alex Crane",
+  "slug": "alex-crane",
+  "pid": "588180707954810",
+  "grupo": "mundo-casual",
+  "pais": "ALL",
+  "site": ""
+ },
+ {
+  "nome": "Lund & Lund",
+  "slug": "lund-lund",
+  "pid": "366178123463436",
+  "grupo": "mundo-casual",
+  "pais": "ALL",
+  "site": ""
+ },
+ {
+  "nome": "Ho Stevie",
+  "slug": "ho-stevie",
+  "pid": "499204660210874",
+  "grupo": "mundo-resort",
+  "pais": "ALL",
+  "site": ""
+ },
+ {
+  "nome": "Walker & Hunt",
+  "slug": "walker-hunt",
+  "pid": "433172300361870",
+  "grupo": "mundo-resort",
+  "pais": "ALL",
+  "site": ""
+ },
+ {
+  "nome": "Tucann",
+  "slug": "tucann",
+  "pid": "100497057136896",
+  "grupo": "mundo-resort",
+  "pais": "ALL",
+  "site": ""
+ },
+ {
+  "nome": "Peckham Rye",
+  "slug": "peckham-rye",
+  "pid": "516027498494169",
+  "grupo": "mundo-casual",
+  "pais": "ALL",
+  "site": ""
+ },
+ {
+  "nome": "Uncle Purl",
+  "slug": "uncle-purl",
+  "pid": "179506021913590",
+  "grupo": "mundo-resort",
+  "pais": "ALL",
+  "site": ""
+ },
+ {
+  "nome": "Budgy Smuggler",
+  "slug": "budgy-smuggler",
+  "pid": "270601920428478",
+  "grupo": "mundo-resort",
+  "pais": "ALL",
+  "site": ""
+ },
+ {
+  "nome": "Hammies",
+  "slug": "hammies",
+  "pid": "1048686518611490",
+  "grupo": "mundo-resort",
+  "pais": "ALL",
+  "site": ""
+ },
+ {
+  "nome": "Roberto Vino",
+  "slug": "roberto-vino",
+  "pid": "1010266832168551",
+  "grupo": "mundo-resort",
+  "pais": "ALL",
+  "site": ""
+ },
+ {
+  "nome": "Notre Succes",
+  "slug": "notre-succes",
+  "pid": "286302031225384",
+  "grupo": "mundo-resort",
+  "pais": "ALL",
+  "site": ""
+ },
+ {
+  "nome": "Malbon Golf",
+  "slug": "malbon-golf",
+  "pid": "487655908053097",
+  "grupo": "mundo-street",
+  "pais": "ALL",
+  "site": ""
+ },
+ {
+  "nome": "Psycho Bunny",
+  "slug": "psycho-bunny",
+  "pid": "116166411741209",
+  "grupo": "mundo-casual",
+  "pais": "ALL",
+  "site": ""
+ },
+ {
+  "nome": "American Giant",
+  "slug": "american-giant",
+  "pid": "273117119409641",
+  "grupo": "mundo-casual",
+  "pais": "ALL",
+  "site": ""
+ },
+ {
+  "nome": "Bearbottom",
+  "slug": "bearbottom",
+  "pid": "255889597873377",
+  "grupo": "mundo-casual",
+  "pais": "ALL",
+  "site": ""
+ },
+ {
+  "nome": "Sabar",
+  "slug": "sabar",
+  "pid": "113722968297005",
+  "grupo": "mundo-street",
+  "pais": "ALL",
+  "site": ""
+ },
+ {
+  "nome": "Giovici",
+  "slug": "giovici",
+  "pid": "1467300676908096",
+  "grupo": "mundo-resort",
+  "pais": "ALL",
+  "site": ""
+ },
+ {
+  "nome": "Cavani",
+  "slug": "cavani",
+  "pid": "221143574902126",
+  "grupo": "mundo-casual",
+  "pais": "ALL",
+  "site": ""
+ },
+ {
+  "nome": "Duvin Design",
+  "slug": "duvin-design",
+  "pid": "136336424200",
+  "grupo": "mundo-resort",
+  "pais": "ALL",
+  "site": "https://duvindesign.com/"
+ },
+ {
+  "nome": "Carne Bollente",
+  "slug": "carne-bollente",
+  "pid": "111906901374020",
+  "grupo": "mundo-street",
+  "pais": "ALL",
+  "site": "https://carnebollente.com/"
+ },
+ {
+  "nome": "Asket",
+  "slug": "asket",
+  "pid": "857564564301482",
+  "grupo": "mundo-casual",
+  "pais": "ALL",
+  "site": "https://asket.com/"
+ },
+ {
+  "nome": "Gant",
+  "slug": "gant",
+  "pid": "45175417897",
+  "grupo": "mundo-casual",
+  "pais": "ALL",
+  "site": "https://gant.com/"
+ },
+ {
+  "nome": "Far Afield",
+  "slug": "far-afield",
+  "pid": "1682745335327429",
+  "grupo": "mundo-resort",
+  "pais": "ALL",
+  "site": "https://farafield.co.uk/"
+ }
+]

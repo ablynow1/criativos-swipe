@@ -1,0 +1,557 @@
+{
+ "ermos": {
+  "estilo": "Oversized com frase de atitude no universo verão europeu, drinks e clube",
+  "preco": "R$ 189,90",
+  "oferta": "Compre 3, pague 2 no site · Compre 2, leve 3 no anúncio",
+  "leitura": "Testa volume: ~30 fotos da mesma coleção com a mesma legenda. As que ficam são costas com a frase e a oferta gigante na arte (\"SAI DE GRAÇA!\")."
+ },
+ "balddoria": {
+  "estilo": "Streetwear premium de noite e festa; nomes em inglês e italiano (Nocturnal, 5AM, Discoteca)",
+  "preco": "R$ 228–328 · moletom R$ 428–498",
+  "oferta": "3 por 2 e frete grátis Sul/Sudeste no site",
+  "leitura": "Quase sem texto no anúncio: a frase da peça é a copy. Coleção com nome e hashtag (#FW26) e vídeo de festa com a camiseta em destaque."
+ },
+ "monte-leste": {
+  "estilo": "Oversized de estampa autoral, fábrica própria",
+  "preco": "R$ 109,90–229",
+  "oferta": "Compre 3 peças e escolha o presente (boné, shoulder bag) · cupom MONTELESTE10",
+  "leitura": "A mesma oferta de brinde roda há mais de um ano em vários formatos: unboxing em primeira pessoa, banner e o fundador na estamparia."
+ },
+ "prison": {
+  "estilo": "Streetwear esportivo americano (college, NYC)",
+  "preco": "R$ 179–199,90",
+  "oferta": "Cupom SEMFRETE, cashback e frete grátis acima de R$ 399",
+  "leitura": "Packshot limpo em fundo branco com cupom na legenda. O mais antigo está no ar há 240 dias."
+ },
+ "chico-rei": {
+  "estilo": "Camiseta de estampa autoral, collabs com clube e temas culturais",
+  "oferta": "Promoções no site · collab Vasco",
+  "leitura": "Collab com clube e tema cultural duram meses. A creator chamando \"Ei, psiu!\" pra promoção está no ar há 299 dias."
+ },
+ "sage-brazil": {
+  "estilo": "Resortwear nacional: linho, algodão pima, veleiro bordado \"SAGE CLUB\"",
+  "preco": "R$ 419–919 no site",
+  "oferta": "Cupom BEMVINDO na 1ª compra",
+  "leitura": "Vídeo curto da peça no corpo com close de tecido e bordado; \"best seller de volta\" em cor nova. O mais antigo tem 361 dias."
+ },
+ "egho-studios": {
+  "estilo": "Streetwear premium escuro, \"Made for Creators\"",
+  "preco": "R$ 299–609 no site",
+  "leitura": "Vídeo de campanha da coleção F/W 26 \"BANDITO\" em 4 variações, quase sem texto."
+ },
+ "insider": {
+  "estilo": "Básico tecnológico (Tech T-Shirt®) masculino e feminino",
+  "oferta": "Cupom nominal de creator (DEDE, VANESSAWZ…) e até 50% OFF",
+  "leitura": "940 anúncios ativos. O que dura é creator falando da peça na câmera, com cupom com o nome dela."
+ },
+ "foxton": {
+  "estilo": "Casual masculino clássico, camisa e linho",
+  "oferta": "Cupom BEMVINDO15: 15% na 1ª compra",
+  "leitura": "O anúncio de boas-vindas com cupom está no ar há 197 dias; o resto é remarketing de carrinho."
+ },
+ "reserva": {
+  "estilo": "Casual masculino brasileiro, camiseta estampada",
+  "preco": "R$ 129–209",
+  "oferta": "Leve 3, pague 2 em coleções",
+  "leitura": "Só 2 criativos passam de 30 dias: catálogo com modelo olhando pra câmera e a camiseta \"O melhor pai do mundo\"."
+ },
+ "piet": {
+  "estilo": "Streetwear com humor, \"studying millennials behavior since 2012\"",
+  "preco": "R$ 199,90–349",
+  "oferta": "SALE até 50% OFF · collab Piet x Oakley",
+  "leitura": "Coleção com nome (\"Sub-Cultural Networking\") roda há 141 dias em 4 variações. SALE em saco de papel neon."
+ },
+ "aramis": {
+  "estilo": "Masculino premium: polo, camisa, alfaiataria e calçado",
+  "oferta": "Outlet até 50% OFF",
+  "leitura": "O que dura é o outlet: a mesma arte com 10 variações há 115 dias."
+ },
+ "jouse": {
+  "estilo": "Básico premium direto ao consumidor: camiseta, polo, chino, carteira",
+  "leitura": "Promessa de superlativo (\"a melhor camiseta que você vai provar\") e depoimento de cliente falando pra câmera."
+ },
+ "blunt": {
+  "estilo": "Streetwear urbano: oversized e moletom",
+  "oferta": "Mystery pack: 3 camisetas por R$ 299,99",
+  "leitura": "Kit fechado com preço na legenda, o mesmo vídeo em 5 variações há 82 dias."
+ },
+ "minimal-club": {
+  "estilo": "Camiseta básica minimalista masculina",
+  "preco": "R$ 129,90–169",
+  "oferta": "Compre 3, leve 4 + carteira de brinde",
+  "leitura": "1.100 anúncios ativos. Os que duram: banner \"COMPRE 3 LEVE 4\" e creator comparando com a camiseta dos famosos."
+ },
+ "richards": {
+  "estilo": "Casual premium por estação (linho no verão)",
+  "oferta": "Seleções sazonais",
+  "leitura": "Seleção \"Linhos Richards\" em vídeo curto; nada passa de 51 dias. Estação vira campanha."
+ },
+ "baw": {
+  "estilo": "Streetwear colorido e sem gênero, com loja física (BAW Retiro Store)",
+  "preco": "R$ 119–219 (oversized)",
+  "oferta": "Cupom FIRSTBAW: 15% na 1ª compra · cupom de creator",
+  "leitura": "67 anúncios ativos, muitos pra recrutar lojista. Pro consumidor, dura o vídeo de creator na loja e o de modelagens com as medidas na tela."
+ },
+ "oriba": {
+  "estilo": "Masculino premium minimalista: oxford, alfaiataria leve",
+  "oferta": "\"Por Menos\": até 50% OFF",
+  "leitura": "Vídeo editorial em casa modernista, uma peça-chave por vez."
+ },
+ "saint-tropez-co": {
+  "estilo": "Resortwear brasileiro: short listrado, camiseta de drink (Negroni, More Wine), óculos \"Riviera\"",
+  "preco": "R$ 199,99",
+  "oferta": "Compre 2, leve 3 (shorts) · 2 óculos pelo preço de 1",
+  "leitura": "O que dura é gente falando pra câmera: o dono abrindo o próprio pedido e selfie no espelho com o short. Dois vídeos estão no ar há 301 dias."
+ },
+ "king-joe": {
+  "estilo": "Casual masculino de verão: camisa de linho, tricot, básicos",
+  "preco": "R$ 169,90–289",
+  "oferta": "Kit 3 camisetas por R$ 239,90 · R$ 50 OFF na 1ª compra",
+  "leitura": "Preço grande na arte (\"a partir de R$ 79,90\") roda há 256 dias; kit de 3 com creator falando na sala há 116."
+ },
+ "fauna-co": {
+  "estilo": "Camiseta de alta gramatura em algodão egípcio (Ultra Egípcio™)",
+  "oferta": "Kits com até 25% OFF + frete grátis",
+  "leitura": "Quatro vídeos de um homem da marca falando da camiseta, todos há 208 dias no ar. O gancho é provocação: \"nem toda camiseta é igual\"."
+ },
+ "jose-knit": {
+  "estilo": "Tricô masculino old money: polo e t-shirt de tricô",
+  "leitura": "Foto do produto no corpo de homem grisalho com selo amarelo \"LANÇAMENTO\"; cenário de casarão e ruela de pedra."
+ },
+ "tailor-s-mind": {
+  "estilo": "Masculino premium: alfaiataria, jaqueta, gola alta",
+  "oferta": "Compre 2, ganhe a 3ª de presente (gola alta)",
+  "leitura": "74 anúncios com 30+ dias no ar. Vídeo de peça-herói (Jaqueta Legacy) e kit de gola alta com a 3ª de brinde."
+ },
+ "cappel": {
+  "estilo": "Boinas masculinas de inspiração europeia",
+  "oferta": "Kit leve 3",
+  "leitura": "61 anúncios com 30+ dias no ar. Copy de estilo (\"mais elegante que um boné\") e remarketing do kit."
+ },
+ "blazee": {
+  "estilo": "Alto padrão discreto: jaqueta Harrington, pima, algodão egípcio",
+  "preco": "R$ 299–399",
+  "leitura": "Vídeo que conta a história da peça (Elvis, James Bond, Florença) em vez de vender desconto. 29 anúncios com 30+ dias no ar."
+ },
+ "mar-trofia": {
+  "estilo": "Resort masculino: short Oxford, camisa waffle, polo italiano",
+  "leitura": "Look completo por cor (\"Uma textura. Seis formas de ser lembrado.\") em vídeo curto; 28 anúncios com 30+ dias no ar."
+ },
+ "we-resortwear": {
+  "estilo": "Resortwear: coleção HEAT (\"Not a season. A destination.\")",
+  "oferta": "Sale até 50% OFF",
+  "leitura": "Coleção com nome e frase de destino; fotografia em locação de praia."
+ },
+ "atento": {
+  "estilo": "Moda masculina consciente, DNA carioca: camisas",
+  "oferta": "Frete fixo R$ 9,90 Sul/Sudeste",
+  "leitura": "Best-seller com nome (\"Camisa Mar\") em vídeo, no ar há 395 dias."
+ },
+ "sonmur": {
+  "estilo": "Masculino com drops de nome italiano (Mezzanotte, Sprezzatura)",
+  "oferta": "Cupom BEMVINDO10",
+  "leitura": "Drop numerado com nome (\"Drop 3: MEZZANOTTE\") e restock com unidades limitadas."
+ },
+ "sergio-k": {
+  "estilo": "Premium masculino com coleções por estação",
+  "preco": "R$ 199–249",
+  "leitura": "Coleção de estação (Pre-Winter, Winter 26) em foto editorial."
+ },
+ "utan": {
+  "estilo": "Old money acessível: polos Linha Italiana, camisas Vicenza/Lucca",
+  "preco": "R$ 80–180",
+  "oferta": "Short: 1 por R$ 80, 3 por R$ 210 (na fala)",
+  "leitura": "Vídeos gravados na loja: meme \"ninguém tem coragem de dizer\", mãos dobrando a peça e close no tricô."
+ },
+ "handred": {
+  "estilo": "Resort carioca em linho, seda e algodão",
+  "preco": "R$ 198,50 (de R$ 397)",
+  "oferta": "Sale final 50% OFF (de/por na arte)",
+  "leitura": "Troca de estação vira campanha (\"Adeus, inverno\") com preço de/por na foto."
+ },
+ "ankor-design": {
+  "estilo": "Quiet luxury: bomber de suede, camisa, verão 27",
+  "preco": "R$ 189,90–219,90",
+  "leitura": "Peça-herói com close de textura e teaser de coleção (\"Preparado pro verão 27?\")."
+ },
+ "eayz-basic": {
+  "estilo": "Básico premium e oversized heavy em algodão egípcio",
+  "preco": "R$ 89,90–129,90",
+  "oferta": "Kit 3 peças por R$ 169,80 (pague 2, leve 3)",
+  "leitura": "Lançamento de cor (Oversized Heavy Caqui) no ar há 624 dias, o mais antigo do nicho de básicos."
+ },
+ "origgo": {
+  "estilo": "Básico masculino premium em algodão de fibra longa",
+  "oferta": "15% de cashback",
+  "leitura": "Depoimento de cliente na arte (\"Já estou providenciando outras cores!\") e peça nova com nome (Calça Aura)."
+ },
+ "oka-basics": {
+  "estilo": "Camiseta básica minimalista (manga 3/4)",
+  "leitura": "\"3 formas de usar\" a mesma peça. O vídeo mais antigo está no ar há 375 dias."
+ },
+ "cursed": {
+  "estilo": "Streetwear experimental: drops com nome (Last Letters, Angels, Sci-Fi Nightmare)",
+  "leitura": "38 anúncios com 30+ dias no ar. Cada drop tem nome e data; o vídeo do moletom \"Angels\" está há 373 dias."
+ },
+ "the-dust-company": {
+  "estilo": "Streetwear autoral (Boxy 70's Club, College, Oriente)",
+  "preco": "R$ 168–210",
+  "leitura": "77 anúncios com 30+ dias no ar. Unboxing ASMR (329 dias) e close de tecido e aviamento."
+ },
+ "volk-culture": {
+  "estilo": "Básicas premium masculinas em muitas cores",
+  "oferta": "Desconto progressivo: R$ 30 OFF a partir de 3 peças · cupom ECONOMIZA10",
+  "leitura": "Oferta de volume explicada em uma linha, rodando há 325–340 dias."
+ },
+ "totanka": {
+  "estilo": "Streetwear oversized (St. Tropez, Mustard Club)",
+  "preco": "R$ 179,90",
+  "oferta": "Outlet 30% OFF",
+  "leitura": "Outlet com 6 variações da mesma arte e coleção com nome (Happiness Free)."
+ },
+ "retroy": {
+  "estilo": "Camisetas e moletons unissex feitos no Brasil (tem \"The Negroni\")",
+  "preco": "R$ 109,90–259,90",
+  "oferta": "3 overs por R$ 299 · 3 lisas por R$ 199,90",
+  "leitura": "Kit com preço fechado na legenda e listrada fio tinto em vídeo."
+ },
+ "kace-wear": {
+  "estilo": "Streetwear de tecido tecnológico, produção limitada",
+  "preco": "R$ 159,90–249,90",
+  "leitura": "Escassez real (\"quando acaba, não há reposição\") e collab com anime."
+ },
+ "lionz-co": {
+  "estilo": "Luxury menswear com leão e comunidade (\"LIONZ THE WORLD\")",
+  "leitura": "Dono falando na arara (\"não é só uma coleção, é uma virada\"), unboxing no sofá e foto de grupo de costas."
+ },
+ "places": {
+  "estilo": "Streetwear de calça baggy e camiseta com nome da marca",
+  "oferta": "Frete grátis + cupom PLOVER",
+  "leitura": "Coleção com nome (\"Life Changer\") e vídeos de outfit em concreto."
+ },
+ "good-times": {
+  "estilo": "Moda urbana com drops",
+  "leitura": "Um só anúncio de drop com 8 variações no ar há 141 dias."
+ },
+ "desgosto": {
+  "estilo": "Streetwear nostálgico, \"loja de inconveniência\"",
+  "preco": "R$ 249–259",
+  "oferta": "Frete grátis acima de R$ 400",
+  "leitura": "Embalagem vira conteúdo: caixa estilo cereal em unboxing ASMR. O criativo mais antigo do acervo, 821 dias."
+ },
+ "birden": {
+  "estilo": "Slow fashion entre o essencial e o urbano, surf clássico",
+  "preco": "R$ 219–249",
+  "oferta": "Cupom OFF10",
+  "leitura": "Coleção com nome e estação (\"Concrete signals AW26\") e POV curto do boné."
+ },
+ "thesaint": {
+  "estilo": "Streetwear premium da Oscar Freire, oversized pesado",
+  "preco": "R$ 228–268",
+  "oferta": "10% OFF · Sale até 50%",
+  "leitura": "Checklist de qualidade na legenda (algodão pesado, costura reforçada, não perde o caimento)."
+ },
+ "docthos": {
+  "estilo": "Masculino: polo e camiseta pima",
+  "oferta": "R$ 60 OFF em 2 camisetas pima · cupom DCT10",
+  "leitura": "Oferta de 2ª unidade escrita no texto do anúncio."
+ },
+ "spice-by-silva": {
+  "estilo": "Acessórios e streetwear de detalhe (cordão elástico, mosquetão)",
+  "leitura": "Coleção SS26 mostrada em close de mão e manequim, sem modelo."
+ },
+ "sopro-company": {
+  "estilo": "Streetwear autoral com camiseta estilo uniforme de time",
+  "oferta": "Sale até 70% OFF",
+  "leitura": "Camiseta \"Oficial\" com cenário de futebol e sala de troféus."
+ },
+ "welcome-rio": {
+  "estilo": "Boxy tee inspirada em Copacabana (\"Tropical Resort\")",
+  "preco": "R$ 289",
+  "oferta": "10% OFF na 1ª compra",
+  "leitura": "Poucos criativos passam de 30 dias: catálogo e cupom de boas-vindas."
+ },
+ "pano": {
+  "estilo": "Resortwear (\"#PanōResortwear\")",
+  "leitura": "480 anúncios com 30+ dias no ar; vídeos curtos de tecido em movimento."
+ },
+ "mc2-saint-barth": {
+  "estilo": "Resort italiano de drinks e destinos (Saint Barth, Positano)",
+  "leitura": "580 anúncios no mundo. O que dura mais é captura de e-mail (\"presentes especiais\" na newsletter)."
+ },
+ "frescobol-carioca": {
+  "estilo": "Resortwear carioca de luxo (Londres/Rio)",
+  "leitura": "\"Carioca Essentials\" e coleção resort; poucos criativos passam de 30 dias no mundo (18 de 320)."
+ },
+ "fair-harbor": {
+  "estilo": "Swim short americano com forro BreezeKnit",
+  "leitura": "Prova de venda como gancho (\"#1 Best-Selling Swim Short\") e bundle & save; 220 anúncios com 30+ dias no ar."
+ },
+ "tombolo": {
+  "estilo": "Cabana shirt temática (drinks, barcos)",
+  "leitura": "Uma camisa-homenagem ao dirty martini com 21 variações no ar. Collab com a Boston Whaler."
+ },
+ "nikben": {
+  "estilo": "Swim retrô sueco",
+  "oferta": "Cupom GOLDRUSH15",
+  "leitura": "Frase de estado de espírito (\"Not every day needs a plan\") com 4 variações."
+ },
+ "scuffers": {
+  "estilo": "Streetwear com assinatura, Madri",
+  "leitura": "Assinatura fixa em todo anúncio: \"As always, with love\"."
+ },
+ "oas-company": {
+  "estilo": "Resort sueco: piscina e sol",
+  "leitura": "\"Designed for time off\": uma frase de marca repetida em todas as peças."
+ },
+ "percival": {
+  "estilo": "Casual com humor, Londres",
+  "oferta": "10% OFF na 1ª compra",
+  "leitura": "Prova com humor (\"15.000 casamentos e contando\") pro terno de linho; drops numerados da SS26."
+ },
+ "orlebar-brown": {
+  "estilo": "Short de banho com corte de alfaiataria e resortwear de Riviera",
+  "oferta": "",
+  "leitura": "Vídeo de praia com o short de banho e collab com a Lamborghini, os dois no ar há 143 dias. Na arte, só o logo; a legenda fala de caimento e estampa."
+ },
+ "vilebrequin": {
+  "estilo": "Short de banho estampado e bolsa de praia, mar turquesa e veleiro",
+  "oferta": "",
+  "leitura": "Foto de campanha com homem grisalho de óculos escuros na areia e veleiro atrás, no ar há 79 dias. A legenda, em turco, promete conforto e elegância no verão."
+ },
+ "sundek": {
+  "estilo": "Short de banho e sunga coloridos, logo grande, desde 1958",
+  "oferta": "Até 40% OFF · frete grátis",
+  "leitura": "Packshot do short sozinho, cor viva e logo grande, no ar há 60 dias. A mesma legenda, \"Design e libertà dal 1958\", roda em italiano, francês e espanhol."
+ },
+ "bather": {
+  "estilo": "Short de banho e camisa de linho gola cubana, moda resort",
+  "oferta": "Até 60% OFF sem cupom · frete grátis nos EUA acima de US$ 150",
+  "leitura": "O packshot de três shorts com \"Wear it in the water. Wear it to lunch\" roda em 3 variações. A liquidação de até 60% aparece em vídeo de mar, no ar há 53 dias."
+ },
+ "chubbies": {
+  "estilo": "Shorts curtos e shorts de banho estampados, tom bem-humorado",
+  "oferta": "Frete e devolução grátis",
+  "leitura": "O catálogo com o preço à mostra, $64.50, está no ar há 171 dias. Outros levam frase de efeito na arte: \"Water is no match\", \"Pure drip from head to thigh\"."
+ },
+ "cdlp": {
+  "estilo": "Cueca e básicos premium em Tencel, marca sueca desde 2016",
+  "oferta": "",
+  "leitura": "Kit de 3 cuecas em packshot sobre rocha, no ar há 292 dias: \"Our most popular product, in our three most popular colours\". Nos vídeos, o argumento é o Tencel."
+ },
+ "madhappy": {
+  "estilo": "Moletom fleece com zíper e calça de moletom, logo em pastel",
+  "oferta": "",
+  "leitura": "Packshot de moletom em fundo branco, sem texto, no ar há 320 dias. Só 12 dos 48 anúncios passam de 30 dias, entre eles a collab com o Red Sox."
+ },
+ "cole-buxton": {
+  "estilo": "Camiseta gráfica com logo grande e tênis de skate",
+  "oferta": "",
+  "leitura": "Os que duram mostram dois lançamentos: tênis de skate (\"Available Now\") e camisetas gráficas. O vídeo de mãos erguendo a camiseta no cabide roda há 64 dias, em 2 variações."
+ },
+ "deus-ex-machina": {
+  "estilo": "Camiseta, gorro, boné trucker e jersey de moto com o escudo Deus",
+  "oferta": "",
+  "leitura": "Foto da peça com o preço (gorro a A$39.99) e a legenda \"Driven by a desire to celebrate creativity\". Os mais antigos estão no ar há 286 dias."
+ },
+ "thrills": {
+  "estilo": "Jeans, camiseta gráfica e boné; campanha com estrada e moto",
+  "oferta": "Liquidação: jeans de A$129,99 por A$53",
+  "leitura": "O catálogo do jeans em liquidação está no ar há 113 dias. O vídeo de lançamento, \"The first drop has arrived\", roda em 4 variações."
+ },
+ "blue-banana": {
+  "estilo": "Camiseta com logo X no peito, coleções Classic e Kids",
+  "oferta": "",
+  "leitura": "Catálogo automático com moldura da coleção (Classic, Kids) e legenda curta, como \"Los iconos que nunca fallan\". Roda em espanhol e português; o mais antigo tem 135 dias."
+ },
+ "rowing-blazers": {
+  "estilo": "Suéter college, camisa rugby e fleece sherpa, com Ursinho Pooh",
+  "oferta": "",
+  "leitura": "Só 8 dos 77 anúncios passam de 30 dias; o mais antigo tem 36 dias. A peça aparece no corpo: suéter \"College\" e camisa rugby com o Ursinho Pooh."
+ },
+ "aries": {
+  "estilo": "Camiseta de streetwear com o logo Aries em moldura de templo",
+  "oferta": "15% OFF na 1ª compra, com cadastro",
+  "leitura": "Só 2 dos 55 anúncios passam de 30 dias: a camiseta do logo em packshot, com 37 dias, e o banner de 15% OFF na primeira compra, com 31."
+ },
+ "golf-wang": {
+  "estilo": "Streetwear de Tyler, The Creator; anuncia os discos em vinil",
+  "oferta": "",
+  "leitura": "Os mais antigos são vídeos dos discos de vinil, com \"Available worldwide\" na legenda. O de Cherry Bomb está no ar há 171 dias."
+ },
+ "marine-layer": {
+  "estilo": "Básicos confortáveis: jogger, moletom e manta em cinza mescla",
+  "oferta": "",
+  "leitura": "Catálogo automático da peça estendida em fundo claro, com legenda curta: \"Say hello to your new favorites.\" Até o cartão-presente entra; os mais antigos têm 141 dias."
+ },
+ "buck-mason": {
+  "estilo": "Clássicos americanos modernos: camiseta, jeans, tricô e jaqueta de couro",
+  "oferta": "Ajuste de barra grátis nas lojas",
+  "leitura": "Um anúncio por loja física, com o nome do lugar na arte (Oakbrook, Somerset) e convite pra tomar um drink com um stylist. Os mais antigos têm 86 dias."
+ },
+ "todd-snyder": {
+  "estilo": "Clássicos masculinos de luxo acessível: moletom, polo e jeans índigo",
+  "oferta": "",
+  "leitura": "Só 11 dos 59 anúncios passam de 30 dias. Os de produto têm título curto e tecido na legenda: \"The World's Best Sweatshirt\", em algodão português."
+ },
+ "faherty": {
+  "estilo": "Roupa casual, com revenda própria de peças usadas",
+  "oferta": "",
+  "leitura": "Só 6 dos 170 anúncios passam de 30 dias; 5 deles divulgam a Second Wave, revenda de peças usadas da marca. O mais antigo tem 86 dias."
+ },
+ "sunspel": {
+  "estilo": "Básico britânico: moletom Loopback e polo Riviera",
+  "oferta": "",
+  "leitura": "Celebridade na legenda: o moletom \"worn by Brad Pitt in F1\" roda em inglês, alemão e japonês; o mais antigo tem 207 dias. A polo leva \"James Bond\" no título."
+ },
+ "passenger": {
+  "estilo": "Fleece e roupa de viagem ao ar livre: estrada, pinheiros, fogueira",
+  "oferta": "10% OFF na 1ª compra com o cupom TRAVEL10",
+  "leitura": "Fleece com nome próprio, como o Ravi (\"A bestseller for a reason\"), no ar há 220 dias. O cupom TRAVEL10, com \"It's Roaming season\", roda há 190 dias."
+ },
+ "rhythm": {
+  "estilo": "Casual de praia e vida costeira, com linha infantil",
+  "oferta": "",
+  "leitura": "Os que mais duram lançam a linha infantil (\"Meet Rhythm Kids\"), em imagem e vídeo com 2 variações cada, há até 128 dias no ar."
+ },
+ "cuts-clothing": {
+  "estilo": "Básicos premium: camiseta pesada de 350 GSM, tricô e calça",
+  "oferta": "Archive Sale: até 50% OFF",
+  "leitura": "A liquidação Archive Sale, até 50% OFF com \"Last chance\", roda em várias artes; as mais antigas têm 270 dias. A camiseta Overtime vende a gramatura: \"Not every tee holds up\"."
+ },
+ "octobre-editions": {
+  "estilo": "Moda casual, calça de pregas em algodão orgânico, app próprio",
+  "oferta": "",
+  "leitura": "Só 16 dos 400 anúncios passam de 30 dias, e a maioria pede para baixar o app (\"Exclusive Surprises and Sneak Peeks\"). O mais antigo tem 58 dias."
+ },
+ "mr-marvis": {
+  "estilo": "Shorts, calças e tops, alguns em edição limitada",
+  "oferta": "",
+  "leitura": "Vídeo com uma ideia só, em alemão e holandês: shorts e calças apenas no site e nas lojas próprias. Os mais antigos estão no ar há 561 dias."
+ },
+ "represent": {
+  "estilo": "Streetwear de luxo: camiseta gráfica, moletom e linha Owners' Club",
+  "oferta": "",
+  "leitura": "Imagem com legenda de uma linha que insiste no luxo (\"one idea echoes in solidarity, Luxury\"), no ar há 129 dias. A linha Owners' Club se inspira em clubes de carro antigo."
+ },
+ "rhude": {
+  "estilo": "Streetwear de luxo, coleção Pre-Fall 2026 de Rhuigi Villaseñor",
+  "oferta": "",
+  "leitura": "A coleção inteira roda com uma legenda só, \"An expression of modern luxury\", e o nome do estilista. O vídeo mais antigo está no ar há 50 dias, em 3 variações."
+ },
+ "birdwell": {
+  "estilo": "Boardshort de surf e short de cotelê, feitos nos EUA",
+  "oferta": "Garantia vitalícia no 808 Boardshort",
+  "leitura": "Só 11 dos 59 anúncios passam de 30 dias, todos com 40 dias no ar. A legenda é ficha técnica: modelo numerado (300, 808), 65 anos de marca, tecido SurfNyl, feito nos EUA."
+ },
+ "ho-stevie": {
+  "estilo": "Wetsuit, springsuit e equipamento de surf, marca familiar de San Diego",
+  "oferta": "Frete grátis e rápido",
+  "leitura": "O vídeo do springsuit na praia, com os benefícios escritos na tela, está no ar há 1.074 dias. A legenda é uma lista curta: \"WARM\", \"FLEXIBLE\", \"DURABLE\", \"FREE FAST SHIPPING\"."
+ },
+ "giovici": {
+  "estilo": "Cueca e short de banho com forro boxer sem tela, marca britânica",
+  "oferta": "Até 50% OFF · frete grátis no Reino Unido",
+  "leitura": "Os que duram repetem a legenda \"Sick of itchy swim shorts?\" e só trocam a arte: short meio dentro d'água, forro à mostra, comparativo com short comum. O mais antigo tem 804 dias."
+ },
+ "duvin-design": {
+  "estilo": "Roupa de lazer retrô da Flórida: camiseta, moletom e calça workwear",
+  "oferta": "",
+  "leitura": "A camiseta de costas, com arco-íris retrô, roda há 247 dias em 3 variações. Nos vídeos, alguém fala com a câmera sobre a calça: \"these pants are undefeated\"."
+ },
+ "gant": {
+  "estilo": "Clássico americano desde 1949: polo piquê, chino e camiseta com escudo bordado",
+  "oferta": "10% OFF na 1ª compra · frete grátis acima de € 74,90",
+  "leitura": "Foto de catálogo da peça, com preço em moeda local, no ar há 327 dias. A legenda é curta e vem na língua de cada país: húngaro, tcheco, eslovaco, turco."
+ },
+ "peckham-rye": {
+  "estilo": "Alfaiataria britânica desde 1795: camiseta mercerizada, tricô e calça, tom sóbrio",
+  "oferta": "",
+  "leitura": "Nada de oferta nem texto na arte: só a peça e uma legenda sobre tecido e acabamento. O carrossel de camisetas de algodão mercerizado está no ar há 302 dias."
+ },
+ "budgy-smuggler": {
+  "estilo": "Sunga slip e maiô feitos na Austrália, estampados ou personalizados, com humor",
+  "oferta": "Personalização sem pedido mínimo",
+  "leitura": "Os que duram vendem a sunga personalizada: com o logo do clube, sem pedido mínimo, ou com o próprio cachorro estampado. A do cachorro está no ar há 346 dias."
+ },
+ "american-giant": {
+  "estilo": "Básicos feitos nos EUA: moletom, camiseta e jeans, com discurso de durabilidade",
+  "oferta": "",
+  "leitura": "Vídeos de gente falando com a câmera: o fundador conta que cansou da roupa barata, e um apresentador abre com \"America doesn't make the best jeans anymore\". Os mais antigos têm 400 dias."
+ },
+ "cavani": {
+  "estilo": "Ternos de inspiração italiana para casamento e corrida de cavalos",
+  "oferta": "Terno de £200 por £160 · frete grátis no Reino Unido acima de £100",
+  "leitura": "Terno vendido pela ocasião: casamento com adulto e criança combinando, no ar há 340 dias, e dia de corrida de cavalos. O desconto de £200 para £160 roda há 234 dias."
+ },
+ "asket": {
+  "estilo": "Coleção permanente de básicos atemporais em fibra natural, feitos na Europa",
+  "oferta": "",
+  "leitura": "Os que duram chamam para a loja física de Londres, na 72-74 Brewer St: fachada, balcão de carvalho, vídeo entre as araras. O mais antigo tem 241 dias."
+ },
+ "bearbottom": {
+  "estilo": "Short chino stretch em várias cores e jogger, básicos do cotidiano",
+  "oferta": "Kit com 4 shorts · 15% OFF comprando em kit",
+  "leitura": "O kit de 4 shorts roda em duas artes, com 7 variações cada, há 134 e 128 dias. Nas outras artes, a legenda traz \"Over 35,000 5-Star Reviews\"."
+ },
+ "tucann": {
+  "estilo": "Short de banho afunilado com forro de compressão, caro de propósito",
+  "oferta": "",
+  "leitura": "O fundador conta os dois anos criando o forro, em 4 variações, há 158 dias. Outra arte, no ar há 182 dias, assume o preço: \"YES, THEY'RE EXPENSIVE. That's the point.\""
+ },
+ "business-pleasure-co": {
+  "estilo": "Móveis de praia e piscina de luxo: guarda-sol, espreguiçadeira, toalha listrada",
+  "oferta": "",
+  "leitura": "O mais antigo, com 206 dias, é a parceria com @juliaberolzheimer: toalha listrada e \"Meanwhile in Southern California...\". A abertura do showroom em Byron Bay roda há 173 dias."
+ },
+ "roberto-vino": {
+  "estilo": "Moletom e camiseta preta de inspiração italiana, frase ou \"Milano\" nas costas",
+  "oferta": "20% OFF no site todo (Memorial Day) · frete grátis acima de US$ 150",
+  "leitura": "O moletom de costas com \"Can't Be Silent Today\" em letra gótica e selo de 20% OFF roda em 4 variações há 130 dias. A camiseta \"Milano\" vende o caimento com depoimento."
+ },
+ "alex-crane": {
+  "estilo": "Roupa de fibra 100% natural: linho, algodão orgânico, coco, folha de bananeira",
+  "oferta": "",
+  "leitura": "Os que duram mostram peça feminina e vendem a fibra natural: \"100% natural fibers, harvested directly from the Earth\". São 13 anúncios com 30+ dias no ar; o mais antigo tem 113 dias."
+ },
+ "hammies": {
+  "estilo": "Short de veludo cotelê e peças retrô dos anos 60 e 70",
+  "oferta": "",
+  "leitura": "Vídeos da peça no corpo, com roupa feminina: provando o short em várias cores, logos de imprensa como The New York Times, avaliação de cliente. Estão no ar há 106 dias."
+ },
+ "notre-succes": {
+  "estilo": "Camiseta de luxo com tema Portofino e Yacht Club, linho listrado",
+  "oferta": "30% OFF no vídeo de review",
+  "leitura": "A bermuda de linho listrada, em fundo branco, roda em 5 variações há 115 dias. O homem de costas com estampa de bolo, em villa com carro esportivo, está no ar há 143 dias."
+ },
+ "psycho-bunny": {
+  "estilo": "Polo piquê com coelho bordado no peito e polo de tricô texturizado",
+  "oferta": "Frete grátis acima de US$ 100",
+  "leitura": "A polo da linha Big and Tall, para homem grande, é a mais antiga: 92 dias, em 4 variações. A de tricô vem com depoimento ou como presente: \"THE GIFT THAT CAN'T MISS\"."
+ },
+ "sabar": {
+  "estilo": "Streetwear indiano: camiseta oversized estampada, lábios vermelhos e borboleta, preço baixo",
+  "oferta": "40% OFF, a partir de ₹599 · regata a ₹549",
+  "leitura": "O aviso \"OFFER ENDING SOON\", com o preço de ₹549 na arte, está no ar há 89 dias. O carrossel \"Biggest Sale Ever\", com preço riscado, roda há 91 dias."
+ },
+ "walker-hunt": {
+  "estilo": "Camiseta, moletom e polo de tricô com tema de clube de tênis",
+  "oferta": "",
+  "leitura": "Depoimento de cliente escrito sobre a foto da peça: o moletom \"Club de Tennis Saint-Tropez\" e a camiseta das raquetes rodam em 2 variações há 70 dias."
+ },
+ "malbon-golf": {
+  "estilo": "Golfe com moda, música e arte: roupa, chapéu e sapato",
+  "oferta": "",
+  "leitura": "As fotos de campanha rodam com 4 variações cada: golfista de costas no campo e a sola verde do sapato (\"the Course, Correct.\"). Os mais antigos, de catálogo, têm 58 dias."
+ },
+ "far-afield": {
+  "estilo": "Camisa de manga curta estampada e jaqueta, resort britânico",
+  "oferta": "20% off na 1ª compra · sale até 50%",
+  "leitura": "Packshot da camisa em fundo branco; a estampa inspirada em Tony Soprano está no ar há 85 dias em 3 variações."
+ },
+ "uncle-purl": {
+  "estilo": "Camisa cabana e polo de crochê em linho e seda, inspiração vintage",
+  "oferta": "15% off no pop-up do site; anúncio sem oferta",
+  "leitura": "Só foto da peça, sem modelo e sem oferta: camisa de crochê no sofá, polos dobradas na janela, packshot em fundo branco."
+ }
+}

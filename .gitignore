@@ -1,0 +1,29 @@
+# mídia e saídas (pesadas / geradas)
+midia/
+wav/
+transcricoes/
+lojas/
+lojas_old/
+lojas_curl/
+paginas/
+busca/
+balddoria/
+estampa/
+analise/*
+!analise/INSTRUCOES*.md
+site/*
+!site/.htaccess
+site/swipe/*
+!site/swipe/voto.php
+!site/swipe/.htaccess
+
+# dados coletados / escolhas
+candidatos*.json
+selecionados.json
+validados.json
+ranking.json
+escolhas.json
+votos.jsonl
+log_*.txt
+__pycache__/
+.DS_Store
